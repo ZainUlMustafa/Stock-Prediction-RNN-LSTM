@@ -1,6 +1,8 @@
 from sklearn import preprocessing
 import quandl
-quandl.ApiConfig.api_key = 'EuBXK6i-ViyNR-FCPLr_'
+# enter your API key for Quandl here
+# for limited use, comment it out
+#quandl.ApiConfig.api_key = ''
 import pandas as pd
 
 online = False
