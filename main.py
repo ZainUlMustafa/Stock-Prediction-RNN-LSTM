@@ -24,6 +24,7 @@ import stockproc
 '''Path and filename'''
 
 path = 'Data/KSE/'
+# make the boolean false if you want to read data offline and true for online from Quandl
 data_csv = stockproc.getStockData(path,'hbl',True)
 data_csv[['Last Day Close']].plot()
 plt.show()
