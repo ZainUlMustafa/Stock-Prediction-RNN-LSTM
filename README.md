@@ -1,4 +1,4 @@
-# Stock Prediction RNN LTSM
+# Stock Prediction RNN LSTM
 
 Must read this first: https://github.com/ZainUlMustafa/Analysing-Stock-Market-of-NASDAQ
 
